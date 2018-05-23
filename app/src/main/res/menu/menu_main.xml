@@ -1,0 +1,34 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context=".ui.activity.MainActivity">
+
+    <item
+        android:id="@+id/action_finalizar"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_payment_white_24dp"
+        android:title="@string/action_finalizar"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_mapa"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_location_on_white_24dp"
+        android:title="@string/action_mapa"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/action_cadastro"
+        android:orderInCategory="200"
+        android:title="@string/action_cadastro"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/action_editar"
+        android:orderInCategory="300"
+        android:title="@string/action_editar"
+        app:showAsAction="never" />
+    <item
+    android:id="@+id/action_sincronizar"
+    android:orderInCategory="300"
+    android:title="@string/action_sincronizar"
+    app:showAsAction="never" />
+
+</menu>

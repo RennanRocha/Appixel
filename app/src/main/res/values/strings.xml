@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">PDV</string>
+    <string name="action_cadastro">Incluir Novo</string>
+    <string name="action_editar">Editar</string>
+    <string name="action_sincronizar">Sincronizar Produtos</string>
+    <string name="action_finalizar">Finalizar Compra</string>
+    <string name="title_activity_lista_cadastro">Incluir Produto</string>
+    <string name="title_activity_select_image">SelectImageActivity</string>
+    <string name="title_activity_editar">Editar</string>
+    <string name="spinner_prompt">Selecione</string>
+    <string name="title_activity_scan">ScanActivity</string>
+    <string name="scan">Scan</string>
+    <string name="title_activity_finalizar_compra">Finalizar Compra</string>
+    <string name="action_mapa">Mapa</string>
+    <string name="title_activity_maps">Mapa de Produtos</string>
+</resources>
